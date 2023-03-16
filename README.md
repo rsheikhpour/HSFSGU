@@ -1,1 +1,1 @@
-# HSFSGU_Semisupervide_Feature_Selection
+# HSFSGU_Semisupervised_Feature_Selection
